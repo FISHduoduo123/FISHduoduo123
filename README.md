@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 🧠 Focus: Processor Architecture & Computer SoC Systems
+🧠 Focus: Processor Architecture & Computer SoC Systems
 I am a tech enthusiast deeply engaged in the research and communication of **Processor Architecture** and **Computer SoC Systems**.
 
 I am passionate about dissecting the underlying logic of hardware design and exploring the core implementation principles of CPUs and SoCs.
