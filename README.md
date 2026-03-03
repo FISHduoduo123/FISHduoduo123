@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🧠 Focus: 
+🧠 Focus: <br>
 Processor Architecture & Computer SoC Systems
 I am a tech enthusiast deeply engaged in the research and communication of **Processor Architecture** and **Computer SoC Systems**.
 
