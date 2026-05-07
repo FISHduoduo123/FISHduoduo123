@@ -1,5 +1,5 @@
 ## Hi there 👋
-  ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=ubrong&amp;layout=compact&amp;theme=tokyonight)    
+  ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=ubrong&amp;layout=compact&amp)    
 🧠 Focus: <br>
 Processor Architecture & Computer SoC Systems
 I am a tech enthusiast deeply engaged in the research and communication of **Processor Architecture** and **Computer SoC Systems**.
