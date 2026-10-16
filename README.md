@@ -1,4 +1,3 @@
-## Hi IM FISHduoduo !!!
 
 ![](assets/Bottom_up.svg)
 
